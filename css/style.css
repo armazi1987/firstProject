@@ -1,0 +1,20 @@
+.logo {
+	width: 33px;
+	
+}
+.menu {
+	color: read;
+	size: 34px;
+}
+.inline-block {
+	display: inline-block;
+	background-color: yellow;
+	width: 30px
+
+}
+.social-parent {
+	width: 100px;
+	background-color: red; 
+	display: inline-block;
+	padding-top: 20px;
+}
